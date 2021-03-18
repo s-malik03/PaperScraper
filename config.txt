@@ -1,2 +1,2 @@
-PYTESSERACT=C:\Program Files\Tesseract-OCR\tesseract.exe
-HASPUNKT=yes
+PYTESSERACT=Your path to tesseract.exe
+HASPUNKT=no
