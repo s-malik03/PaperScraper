@@ -1,6 +1,10 @@
 # PaperScraper
 Can get all relevant sources from the web from a PDF document
 
+EXE Download:
+
+https://drive.google.com/file/d/1mlk3ZkDr_n_1RZ8-lpfgH68_YbbvMSHN/view?usp=sharing
+
 To use:
 
 You must have tesseract installed (can be downloaded from https://digi.bib.uni-mannheim.de/tesseract/)
